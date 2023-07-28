@@ -1,0 +1,5 @@
+#执行的类或对象方法所在包的名字
+[com.twodog.cron]
+#需要执行的类名和方法名=秒 分 时 天 月 周
+HutoolCron.FiveSeconds = */5 * * * * *
+HutoolCron.TenSeconds = */10 * * * * *
